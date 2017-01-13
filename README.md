@@ -1,4 +1,4 @@
 # cranLogs
 R script which tracks CRAN package downloads
-![Package Downloads](https://github.com/rmarketing/cranLogs/img/packageDownloads.png "CRAN Package Downloads")
+![CRAN Package Downloads](https://github.com/rmarketing/cranLogs/blob/master/img/packageDownloads.png)
 
